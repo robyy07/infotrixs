@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c3197da3-df51-49be-83ca-8deae0f488b5" name="Changes" comment="" />
+    <list default="true" id="c3197da3-df51-49be-83ca-8deae0f488b5" name="Changes" comment="fourth commit" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -87,6 +87,7 @@
     "Repository.Attach.Sources": "false",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "C:/Users/robin/IdeaProjects/myemail",
     "onboarding.tips.debug.path": "C:/Users/robin/IdeaProjects/myemail/src/main/java/org/example/Main.java",
